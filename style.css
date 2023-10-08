@@ -1,4 +1,4 @@
-/* * {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -29,6 +29,7 @@ header {
 }
 .icon {
   color: rgb(255, 0, 123);
+  float: right;
 }
 .icons {
   background-color: white;
@@ -82,17 +83,4 @@ p {
   font-size: 20px;
 }
 
-/*img {
-  height: 500px;
-  width: 600px;
-  margin: auto;
-  
-h2 {
-  width: 600px;
-  display: flex;
-}
 
-.bookmark {
-  float: right;
-  padding-right: 20px;
-} */
